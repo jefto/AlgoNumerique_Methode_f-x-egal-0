@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1738513833 source:d:\semestre3\algorritmique numeriques mth1300\1erdevoir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1738518962 source:d:\semestre3\algorritmique numeriques mth1300\1erdevoir\methodes.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"methodes.h"
+
+1738518962 d:\semestre3\algorritmique numeriques mth1300\1erdevoir\methodes.h
+
+1738521739 source:d:\semestre3\algorritmique numeriques mth1300\1erdevoir\declaration.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	"declaration.h"
+
+1738520242 d:\semestre3\algorritmique numeriques mth1300\1erdevoir\declaration.h
+
